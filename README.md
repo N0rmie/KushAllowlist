@@ -20,5 +20,5 @@ If you need help or something you can open a issue.
 
 ## License
 
-Distributed under the GNU License. See `LICENSE` for more information.
+Distributed under the GNU General Public License v3.0 License. See `LICENSE` for more information.
 **IM NOT RESPONSIBLE OF ANYTHING YOU CAN DO WITH THIS**
